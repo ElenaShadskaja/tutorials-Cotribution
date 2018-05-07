@@ -3,6 +3,7 @@ title: gateway demo -signup
 description: Create a Destination to allow HANA Cloud Platform to nbvread/write data
 tags: [tutorial:product/mobile]
 primary_tag: tutorial:product/sapHana
+qrcode: true
 ---
 
 >### New tutor
